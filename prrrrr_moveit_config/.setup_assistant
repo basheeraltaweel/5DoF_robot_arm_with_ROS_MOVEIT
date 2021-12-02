@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: serial_robot_5axis
+    relative_path: urdf/midterm.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/serial_robot_5axis.srdf
+  CONFIG:
+    author_name: basheer
+    author_email: basheeraltawil@gmail.com
+    generated_timestamp: 1609082258

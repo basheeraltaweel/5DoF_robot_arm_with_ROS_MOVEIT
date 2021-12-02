@@ -1,0 +1,9 @@
+arm_controller:
+  type: "position_controllers/JointTrajectoryController"
+  joints:
+   - p_joint
+   - R_joint1
+   - R_joint2
+   - R_joint3
+   - R_joint4
+   - gripper_joint
