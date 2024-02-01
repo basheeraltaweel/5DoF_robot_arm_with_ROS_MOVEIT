@@ -38,4 +38,3 @@ This GitHub repository, **5DoF_robot_arm_with_ROS_MOVEIT**, showcases the design
 4. Explore motion planning using MoveIt through the **prrrrr_moveit_config** folder.
 5. Refer to *steps_to_follow_file_launching.pdf* for a comprehensive guide.
 
-Enjoy exploring and experimenting with the 5DoF robot arm in a ROS environment!
