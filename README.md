@@ -2,7 +2,7 @@
 
 This GitHub repository, **5DoF_robot_arm_with_ROS_MOVEIT**, showcases the design and implementation of a 5 Degrees of Freedom (5DoF) robot arm using SolidWorks. The project includes the conversion of the mechanism to URDF format and integration with ROS MoveIt for motion planning.
 <div align="center">
-  <img src="Capture.JPG" alt="PLC Program" width="500"/>
+  <img src="Capture.JPG" alt="PLC Program" width="800"/>
 
 </div>
 
